@@ -254,8 +254,8 @@ function ComingSoon() {
       <Stars />
       <div className="content">
         <div className="om">ॐ</div>
-        <div className="brand">Jyotish Sanskar</div>
-        <div className="brand-sub">Vedic Astrology Consultation</div>
+        <div className="brand">Vedic Astrology</div>
+        <div className="brand-sub">Consultation</div>
         <div className="divider" />
         <h1>
           The stars are aligning.
@@ -284,7 +284,7 @@ function ComingSoon() {
 
         <div className="notify">
           <div className="notify-label">Be the first to know</div>
-          <a className="notify-btn" href="mailto:vyotish@gmail.com?subject=Notify%20me%20when%20Jyotish%20Sanskar%20launches">
+          <a className="notify-btn" href="mailto:vyotish@gmail.com?subject=Notify%20me%20when%20you%20launch">
             Notify Me
           </a>
           <div className="contact">
@@ -292,7 +292,7 @@ function ComingSoon() {
           </div>
         </div>
       </div>
-      <footer>© {new Date().getFullYear()} Jyotish Sanskar · vyotish.com</footer>
+      <footer>© {new Date().getFullYear()} · vyotish.com</footer>
     </div>
   )
 }
