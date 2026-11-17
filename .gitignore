@@ -1,0 +1,16 @@
+# Dependencies & build output
+node_modules/
+dist/
+
+# Local tooling (not part of the website)
+.zcode/
+.agents/
+.impeccable/
+_bmad/
+_bmad-output/
+skills-lock.json
+
+# OS / logs
+*.log
+.DS_Store
+Thumbs.db
