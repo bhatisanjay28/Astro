@@ -1,0 +1,14 @@
+node_modules
+dist
+.git
+.gitignore
+Dockerfile
+.dockerignore
+nginx.conf
+README.md
+*.log
+.zcode
+.agents
+.impeccable
+_bmad
+_bmad-output
